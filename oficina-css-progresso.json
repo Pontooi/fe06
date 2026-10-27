@@ -1,0 +1,27 @@
+{
+  "versao": 3,
+  "exportadoEm": "2026-10-27T19:16:59.842Z",
+  "estado": {
+    "current": 7,
+    "completed": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "drafts": {
+      "0": "h1 {\n  color: blue;\n}\n\np {\n  color: #1f2937;\n}",
+      "1": "body {\n  background-color: #fff9c4; /* amarelo-claro */\n  color: #1f2937;            /* texto escuro */\n}\n\nh1 {\n  color: #1f2937;\n}\n\np {\n  color: #1f2937;\n}",
+      "2": "h1 {\n  text-align: center;\n  font-size: 32px;\n}\n\np {\n  text-align: center;\n}",
+      "3": ".aviso {\n  padding: 16px;\n  border: 2px solid blue;\n  background-color: #e3f2fd; /* azul bem claro */\n}\n",
+      "4": "ul {\n  display: flex;\n  list-style: none;\n  gap: 20px;\n  padding: 0;\n  margin: 0;\n}\n\na {\n  text-decoration: none;\n}",
+      "5": "table {\n  width: 100%;\n  border-collapse: collapse;\n}\n\nth,\ntd {\n  border: 1px solid #999;\n  padding: 8px;\n}\n\nth {\n  background-color: #e3f2fd; /* azul */\n}",
+      "6": "form {\n  background-color: #f3f4f6; /* cinza-claro */\n  padding: 16px;\n  border-radius: 8px;\n}\n\ninput,\nbutton {\n  width: 100%;\n  box-sizing: border-box; /* evita que o padding \"estoure\" a largura */\n}",
+      "7": ".card {\n  max-width: 360px;\n  margin: 0 auto;              /* centraliza horizontalmente */\n  background-color: white;\n  border: 1px solid #d1d5db;  /* borda cinza */\n  border-radius: 12px;         /* cantos arredondados */\n  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08); /* sombra suave */\n}"
+    }
+  }
+}
